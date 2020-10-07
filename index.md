@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Juri
 
-You can use the [editor on GitHub](https://github.com/gstricker/aboutme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi I'm Juri or Yuri or Youri or Юрий, that really depends on your language. In my professional life I mostly go by the name of Georg Stricker. It is my official, though not original, name. History and cultural differences have a way of interferring with ones ID.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Above everything else I am scientist by heart with a dedication for martial arts (BJJ, boxing and thai boxing). I have a background in statistics and computer science, even all the way up to a PhD. This is not what my teenage-self has envisioned for himself, but then again he hasn't envisioned many smart things back then. Currently working with some great people on building a venture capital fund in the Crypto space and side-hustling with some modelling in sports betting.
 
-### Markdown
+Russian-German living between Munich and Moscow
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Contact
 
-```markdown
-Syntax highlighted code block
+**Active**
 
-# Header 1
-## Header 2
-### Header 3
+[Github](https://github.com/gstricker) | [Twitter](https://twitter.com/GeorgStricker) | [Medium](https://medium.com/@GeorgStricker) | [LinkedIn](https://www.linkedin.com/in/dr-georg-juri-stricker-212b383a/) | [Telegram](https://t.me/NotJuri)
 
-- Bulleted
-- List
+**Inactive**
+_(But, you know, planned to be more active at some point...)_
 
-1. Numbered
-2. List
+[Reddit](https://www.reddit.com/user/TheseText) | [Stackoverflow](https://stackoverflow.com/users/10386730/gstricker)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gstricker/aboutme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
